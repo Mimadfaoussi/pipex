@@ -2,12 +2,6 @@
 
 #### This project is about handling pipes .
 
-<p> program will be executed as follows : </p>
-
-``` 
-./pipex file1 cmd1 cmd2 file2
-
-```
 
 <p> It must take 4 arguments: </p>
 
@@ -20,4 +14,11 @@
 
 ```
 < file1 cmd1 | cmd2 > file2
+```
+
+<p> program will be executed as follows : </p>
+
+``` 
+./pipex file1 cmd1 cmd2 file2
+
 ```
